@@ -1,5 +1,3 @@
-use sakila;
-
 SELECT 
 	r.rental_id,
     r.rental_date,
