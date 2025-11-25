@@ -1,201 +1,201 @@
-actor_id,first_name,last_name,numero_peliculas
-107,GINA,DEGENERES,42
-102,WALTER,TORN,41
-198,MARY,KEITEL,40
-181,MATTHEW,CARREY,39
-23,SANDRA,KILMER,37
-81,SCARLETT,DAMON,36
-158,VIVIEN,BASINGER,35
-60,HENRY,BERRY,35
-37,VAL,BOLGER,35
-106,GROUCHO,DUNST,35
-144,ANGELA,WITHERSPOON,35
-13,UMA,WOOD,35
-92,KIRSTEN,AKROYD,34
-105,SIDNEY,CROWE,34
-65,ANGELA,HUDSON,34
-150,JAYNE,NOLTE,34
-108,WARREN,NOLTE,34
-187,RENEE,BALL,33
-26,RIP,CRAWFORD,33
-101,SUSAN,DAVIS,33
-127,KEVIN,GARLAND,33
-139,EWAN,GOODING,33
-90,SEAN,GUINESS,33
-146,ALBERT,JOHANSSON,33
-27,JULIA,MCQUEEN,33
-94,KENNETH,TORN,33
-117,RENEE,TRACY,33
-197,REESE,WEST,33
-83,BEN,WILLIS,33
-111,CAMERON,ZELLWEGER,33
-58,CHRISTIAN,AKROYD,32
-123,JULIANNE,DENCH,32
-161,HARVEY,HOPE,32
-50,NATALIE,HOPKINS,32
-140,WHOOPI,HURT,32
-119,WARREN,JACKMAN,32
-45,REESE,KILMER,32
-157,GRETA,MALDEN,32
-136,ED,MANSFIELD,32
-17,HELEN,VOIGHT,32
-76,ANGELINA,ASTAIRE,31
-12,KARL,BERRY,31
-104,PENELOPE,CRONYN,31
-143,RIVER,DEAN,31
-28,WOODY,HOFFMAN,31
-82,WOODY,JOLIE,31
-125,ALBERT,NOLTE,31
-84,JAMES,PITT,31
-142,JADA,RYDER,31
-155,IAN,TANDY,31
-66,MARY,TANDY,31
-149,RUSSELL,TEMPLE,31
-95,DARYL,WAHLBERG,31
-168,WILL,WILSON,31
-147,FAY,WINSLET,31
-85,MINNIE,ZELLWEGER,31
-14,VIVIEN,BERGEN,30
-185,MICHAEL,BOLGER,30
-129,DARYL,CRAWFORD,30
-57,JUDE,CRUISE,30
-188,ROCK,DUKAKIS,30
-191,GREGORY,GOODING,30
-64,RAY,JOHANSSON,30
-103,MATTHEW,LEIGH,30
-128,CATE,MCQUEEN,30
-7,GRACE,MOSTEL,30
-133,RICHARD,PENN,30
-44,NICK,STALLONE,30
-53,MENA,TEMPLE,30
-20,LUCILLE,TRACY,30
-196,BELA,WALKEN,30
-68,RIP,WINSLET,30
-40,JOHNNY,CAGE,29
-176,JON,CHASE,29
-41,JODIE,DEGENERES,29
-36,BURT,DUKAKIS,29
-184,HUMPHREY,GARLAND,29
-179,ED,GUINESS,29
-169,KENNETH,HOFFMAN,29
-5,JOHNNY,LOLLOBRIGIDA,29
-62,JAYNE,NEESON,29
-192,JOHN,SUVARI,29
-29,ALEC,WAYNE,29
-145,KIM,ALLEN,28
-115,HARRISON,BALE,28
-39,GOLDIE,BRODY,28
-80,RALPH,CRUZ,28
-154,MERYL,GIBSON,28
-141,CATE,HARRIS,28
-56,DAN,HARRIS,28
-79,MAE,HOFFMAN,28
-74,MILLA,KEITEL,28
-15,CUBA,OLIVIER,28
-171,OLYMPIA,PFEIFFER,28
-190,AUDREY,BAILEY,27
-98,CHRIS,BRIDGES,27
-86,GREG,CHAPLIN,27
-16,FRED,COSTNER,27
-49,ANNE,CRONYN,27
-173,ALAN,DREYFUSS,27
-175,WILLIAM,HACKMAN,27
-97,MEG,HAWKE,27
-113,MORGAN,HOPKINS,27
-130,GRETA,KEITEL,27
-177,GENE,MCKELLEN,27
-42,TOM,MIRANDA,27
-120,PENELOPE,MONROE,27
-21,KIRSTEN,PALTROW,27
-195,JAYNE,SILVERSTONE,27
-59,DUSTIN,TAUTOU,27
-137,MORGAN,WILLIAMS,27
-124,SCARLETT,BENING,26
-159,LAURA,BRODY,26
-167,LAURENCE,BULLOCK,26
-48,FRANCES,DAY-LEWIS,26
-165,AL,GARLAND,26
-151,GEOFFREY,HESTON,26
-52,CARMEN,HUNT,26
-43,KIRK,JOVOVICH,26
-22,ELVIS,MARX,26
-99,JIM,MOSTEL,26
-73,GARY,PENN,26
-78,GROUCHO,SINATRA,26
-72,SEAN,WILLIAMS,26
-164,HUMPHREY,WILLIS,26
-118,CUBA,ALLEN,25
-112,RUSSELL,BACALL,25
-121,LIZA,BERGMAN,25
-11,ZERO,CAGE,25
-19,BOB,FAWCETT,25
-131,JANE,JACKMAN,25
-162,OPRAH,KILMER,25
-114,MORGAN,MCDORMAND,25
-38,TOM,MCKELLEN,25
-61,CHRISTIAN,NEESON,25
-122,SALMA,NOLTE,25
-34,AUDREY,OLIVIER,25
-51,GARY,PHOENIX,25
-54,PENELOPE,PINKETT,25
-93,ELLEN,PRESLEY,25
-180,JEFF,SILVERSTONE,25
-9,JOE,SWANK,25
-2,NICK,WAHLBERG,25
-172,GROUCHO,WILLIAMS,25
-182,DEBBIE,AKROYD,24
-47,JULIA,BARRYMORE,24
-174,MICHAEL,BENING,24
-189,CUBA,BIRCH,24
-138,LUCILLE,DEE,24
-89,CHARLIZE,DENCH,24
-100,SPENCER,DEPP,24
-46,PARKER,GOLDBERG,24
-170,MENA,HOPPER,24
-77,CARY,MCCONAUGHEY,24
-33,MILLA,PECK,24
-75,BURT,POSEY,24
-24,CAMERON,STREEP,24
-116,DAN,STREEP,24
-67,JESSICA,BAILEY,23
-32,TIM,HACKMAN,23
-152,BEN,HARRIS,23
-70,MICHELLE,MCCONAUGHEY,23
-178,LISA,MONROE,23
-193,BURT,TEMPLE,23
-126,FRANCES,TOMEI,23
-96,GENE,WILLIS,23
-194,MERYL,ALLEN,22
-3,ED,CHASE,22
-4,JENNIFER,DAVIS,22
-166,NICK,DEGENERES,22
-109,SYLVESTER,DERN,22
-10,CHRISTIAN,GABLE,22
-134,GENE,HOPKINS,22
-132,ADAM,HOPPER,22
-18,DAN,TORN,22
-156,FAY,WOOD,22
-25,KEVIN,BLOOM,21
-110,SUSAN,DAVIS,21
-69,KENNETH,PALTROW,21
-87,SPENCER,PECK,21
-163,CHRISTOPHER,WEST,21
-91,CHRISTOPHER,BERRY,20
-160,CHRIS,DEPP,20
-8,MATTHEW,JOHANSSON,20
-55,FAY,KILMER,20
-153,MINNIE,KILMER,20
-6,BETTE,NICHOLSON,20
-88,KENNETH,PESCI,20
-135,RITA,REYNOLDS,20
-200,THORA,TEMPLE,20
-183,RUSSELL,CLOSE,19
-1,PENELOPE,GUINESS,19
-30,SANDRA,PECK,19
-63,CAMERON,WRAY,19
-71,ADAM,GRANT,18
-31,SISSY,SOBIESKI,18
-186,JULIA,ZELLWEGER,16
-35,JUDY,DEAN,15
-199,JULIA,FAWCETT,15
-148,EMILY,DEE,14
+actor_id,full_name,film_participations
+107,"gina degeneres",42
+102,"walter torn",41
+198,"mary keitel",40
+181,"matthew carrey",39
+23,"sandra kilmer",37
+81,"scarlett damon",36
+158,"vivien basinger",35
+60,"henry berry",35
+37,"val bolger",35
+106,"groucho dunst",35
+144,"angela witherspoon",35
+13,"uma wood",35
+92,"kirsten akroyd",34
+105,"sidney crowe",34
+65,"angela hudson",34
+150,"jayne nolte",34
+108,"warren nolte",34
+187,"renee ball",33
+26,"rip crawford",33
+101,"susan davis",33
+127,"kevin garland",33
+139,"ewan gooding",33
+90,"sean guiness",33
+146,"albert johansson",33
+27,"julia mcqueen",33
+94,"kenneth torn",33
+117,"renee tracy",33
+197,"reese west",33
+83,"ben willis",33
+111,"cameron zellweger",33
+58,"christian akroyd",32
+123,"julianne dench",32
+161,"harvey hope",32
+50,"natalie hopkins",32
+140,"whoopi hurt",32
+119,"warren jackman",32
+45,"reese kilmer",32
+157,"greta malden",32
+136,"ed mansfield",32
+17,"helen voight",32
+76,"angelina astaire",31
+12,"karl berry",31
+104,"penelope cronyn",31
+143,"river dean",31
+28,"woody hoffman",31
+82,"woody jolie",31
+125,"albert nolte",31
+84,"james pitt",31
+142,"jada ryder",31
+155,"ian tandy",31
+66,"mary tandy",31
+149,"russell temple",31
+95,"daryl wahlberg",31
+168,"will wilson",31
+147,"fay winslet",31
+85,"minnie zellweger",31
+14,"vivien bergen",30
+185,"michael bolger",30
+129,"daryl crawford",30
+57,"jude cruise",30
+188,"rock dukakis",30
+191,"gregory gooding",30
+64,"ray johansson",30
+103,"matthew leigh",30
+128,"cate mcqueen",30
+7,"grace mostel",30
+133,"richard penn",30
+44,"nick stallone",30
+53,"mena temple",30
+20,"lucille tracy",30
+196,"bela walken",30
+68,"rip winslet",30
+40,"johnny cage",29
+176,"jon chase",29
+41,"jodie degeneres",29
+36,"burt dukakis",29
+184,"humphrey garland",29
+179,"ed guiness",29
+169,"kenneth hoffman",29
+5,"johnny lollobrigida",29
+62,"jayne neeson",29
+192,"john suvari",29
+29,"alec wayne",29
+145,"kim allen",28
+115,"harrison bale",28
+39,"goldie brody",28
+80,"ralph cruz",28
+154,"meryl gibson",28
+141,"cate harris",28
+56,"dan harris",28
+79,"mae hoffman",28
+74,"milla keitel",28
+15,"cuba olivier",28
+171,"olympia pfeiffer",28
+190,"audrey bailey",27
+98,"chris bridges",27
+86,"greg chaplin",27
+16,"fred costner",27
+49,"anne cronyn",27
+173,"alan dreyfuss",27
+175,"william hackman",27
+97,"meg hawke",27
+113,"morgan hopkins",27
+130,"greta keitel",27
+177,"gene mckellen",27
+42,"tom miranda",27
+120,"penelope monroe",27
+21,"kirsten paltrow",27
+195,"jayne silverstone",27
+59,"dustin tautou",27
+137,"morgan williams",27
+124,"scarlett bening",26
+159,"laura brody",26
+167,"laurence bullock",26
+48,"frances day-lewis",26
+165,"al garland",26
+151,"geoffrey heston",26
+52,"carmen hunt",26
+43,"kirk jovovich",26
+22,"elvis marx",26
+99,"jim mostel",26
+73,"gary penn",26
+78,"groucho sinatra",26
+72,"sean williams",26
+164,"humphrey willis",26
+118,"cuba allen",25
+112,"russell bacall",25
+121,"liza bergman",25
+11,"zero cage",25
+19,"bob fawcett",25
+131,"jane jackman",25
+162,"oprah kilmer",25
+114,"morgan mcdormand",25
+38,"tom mckellen",25
+61,"christian neeson",25
+122,"salma nolte",25
+34,"audrey olivier",25
+51,"gary phoenix",25
+54,"penelope pinkett",25
+93,"ellen presley",25
+180,"jeff silverstone",25
+9,"joe swank",25
+2,"nick wahlberg",25
+172,"groucho williams",25
+182,"debbie akroyd",24
+47,"julia barrymore",24
+174,"michael bening",24
+189,"cuba birch",24
+138,"lucille dee",24
+89,"charlize dench",24
+100,"spencer depp",24
+46,"parker goldberg",24
+170,"mena hopper",24
+77,"cary mcconaughey",24
+33,"milla peck",24
+75,"burt posey",24
+24,"cameron streep",24
+116,"dan streep",24
+67,"jessica bailey",23
+32,"tim hackman",23
+152,"ben harris",23
+70,"michelle mcconaughey",23
+178,"lisa monroe",23
+193,"burt temple",23
+126,"frances tomei",23
+96,"gene willis",23
+194,"meryl allen",22
+3,"ed chase",22
+4,"jennifer davis",22
+166,"nick degeneres",22
+109,"sylvester dern",22
+10,"christian gable",22
+134,"gene hopkins",22
+132,"adam hopper",22
+18,"dan torn",22
+156,"fay wood",22
+25,"kevin bloom",21
+110,"susan davis",21
+69,"kenneth paltrow",21
+87,"spencer peck",21
+163,"christopher west",21
+91,"christopher berry",20
+160,"chris depp",20
+8,"matthew johansson",20
+55,"fay kilmer",20
+153,"minnie kilmer",20
+6,"bette nicholson",20
+88,"kenneth pesci",20
+135,"rita reynolds",20
+200,"thora temple",20
+183,"russell close",19
+1,"penelope guiness",19
+30,"sandra peck",19
+63,"cameron wray",19
+71,"adam grant",18
+31,"sissy sobieski",18
+186,"julia zellweger",16
+35,"judy dean",15
+199,"julia fawcett",15
+148,"emily dee",14

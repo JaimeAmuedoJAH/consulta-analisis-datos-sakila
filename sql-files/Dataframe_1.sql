@@ -1,18 +1,24 @@
+-- Estas dos lineas de codigo no han afectao a ninguna linea por lo que no se encontraron registros con id null.
+DELETE FROM payment
+WHERE rental_id IS NULL
+	OR payment_id IS NULL;
+DELETE FROM rental
+WHERE rental_id IS NULL;
+
+-- Esta linea de comando ha afectado a 24 lineas por lo que habia 24 valores que no cumplia con las condiciones.
+DELETE FROM payment
+WHERE amount <= 0;
+
 SELECT 
 	r.rental_id,
     r.rental_date,
     r.return_date,
-    cus.customer_id,
-    cus.first_name,
-    cus.last_name,
-    a.address_id,
-    a.district,
+    LOWER(cus.first_name) AS first_name,
+    LOWER(cus.last_name) AS last_name,
+    LOWER(a.district) AS district,
     a.postal_code,
-    cit.city_id,
-    cit.city,
-    cou.country_id,
-    cou.country,
-    p.payment_id,
+    LOWER(cit.city) AS city,
+    LOWER(cou.country) AS country,
     p.amount
 FROM 
 	payment AS p
@@ -25,5 +31,7 @@ JOIN
 JOIN
 	city AS cit ON a.city_id = cit.city_id
 JOIN
-	country AS cou ON cit.country_id = cou.country_id;
-	
+	country AS cou ON cit.country_id = cou.country_id
+WHERE
+	r.return_date IS NOT NULL
+    AND rental_date < return_date;
