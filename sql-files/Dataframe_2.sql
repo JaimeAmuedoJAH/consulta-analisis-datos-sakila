@@ -10,7 +10,7 @@ SELECT
     f.replacement_cost,
     LOWER(TRIM(lang.name)) AS language,
     LOWER(TRIM(c.name)) AS category,
-    COUNT(i.inventory_id) AS total_copias,
+    COUNT(i.inventory_id) AS total_copies,
     CASE
 		WHEN f.length >= 120 THEN 'yes'
         ELSE 'no'

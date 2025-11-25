@@ -1,4 +1,4 @@
-film_id,title,film_duration,description,special_features,rating,rental_duration,rental_rate,replacement_cost,language,category,total_copias,is_long_film
+film_id,title,film_duration,description,special_features,rating,rental_duration,rental_rate,replacement_cost,language,category,total_copies,is_long_film
 1,"academy dinosaur",86,"a epic drama of a feminist and a mad scientist who must battle a teacher in the canadian rockies","deleted scenes,behind the scenes",PG,6,0.99,20.99,english,documentary,8,no
 2,"ace goldfinger",48,"a astounding epistle of a database administrator and a explorer who must find a car in ancient china","trailers,deleted scenes",G,3,4.99,12.99,english,horror,3,no
 3,"adaptation holes",50,"a astounding reflection of a lumberjack and a car who must sink a lumberjack in a baloon factory","trailers,deleted scenes",NC-17,7,2.99,18.99,english,documentary,4,no
