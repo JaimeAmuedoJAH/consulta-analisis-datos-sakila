@@ -14,7 +14,7 @@ SELECT
 FROM
 	film AS f
 JOIN
-		film_category AS fcat ON f.film_id = fcat.film_id 
+	film_category AS fcat ON f.film_id = fcat.film_id 
 JOIN
 	language AS lang ON f.language_id = lang.language_id
 JOIN
