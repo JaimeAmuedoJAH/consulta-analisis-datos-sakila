@@ -74,6 +74,6 @@ el actor ha participado en su carrera.
 
 - ✅ Comprobar y corregir tipos de datos.
 - Detectar outliers
-- Crear columnas derivadas
-- Generar visualizaciones gráficas
+- ✅ Crear columnas derivadas
+- ✅ Generar visualizaciones gráficas
 - Exportar dataset final
