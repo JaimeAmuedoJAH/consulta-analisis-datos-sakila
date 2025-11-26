@@ -64,7 +64,16 @@ el actor ha participado en su carrera.
 
 # 🧰 Tecnologías y librerías
 
-SQL WORKBENCH
-Python notebook (ipynb)
-Github
-Visual Studio Code
+- SQL WORKBENCH
+- Python 
+- Jupyter Notebook (.ipynb)
+- Github
+- Visual Studio Code
+
+# ✅ Checklist de Python
+
+- ✅ Comprobar y corregir tipos de datos.
+- Detectar outliers
+- Crear columnas derivadas
+- Generar visualizaciones gráficas
+- Exportar dataset final
