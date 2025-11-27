@@ -84,4 +84,4 @@ el actor ha participado en su carrera.
 - ✅ Detectar outliers
 - ✅ Crear columnas derivadas
 - ✅ Generar visualizaciones gráficas
-- Exportar dataset final
+- ✅ Exportar dataset final
