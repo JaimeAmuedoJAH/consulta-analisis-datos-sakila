@@ -98,6 +98,7 @@ p3-consultas-sql-Jaime-Amuedo/
 ├── notebook/
 │ ├── ProyectoIII_dataframe1.ipynb
 │ └── ProyectoIII_dataframe2.ipynb
+│ └── ProyectoIII_dataframe3.ipynb
 ├── sql-files/
 │ ├── Dataframe1.sql
 │ ├── Dataframe2.sql
@@ -106,6 +107,12 @@ p3-consultas-sql-Jaime-Amuedo/
 ├── .gitignore
 └── README.md
 ```
+
+# 📝 Notas Adicionales
+
+Actualmente se está trabajando en la actualización de los Dataframe 1 y 2, por eso aparecen en la estructura del proyecto.
+Actualmente se encuentra exlcuidos en el archivo .gitignore
+
 # ✍️ Instrucciones de Uso
 ```
 git clone [URL-de-tu-repositorio]
