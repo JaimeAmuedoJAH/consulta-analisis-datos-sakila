@@ -66,7 +66,7 @@ el actor ha participado en su carrera.
 
 ## 📊 Análisis de datos
 - ![SQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&size=auto)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&size=auto)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&size=auto)
 
 ## 🛠️ Principales librerías
@@ -85,3 +85,35 @@ el actor ha participado en su carrera.
 - ✅ Crear columnas derivadas
 - ✅ Generar visualizaciones gráficas
 - ✅ Exportar dataset final
+
+# 📁 Estructura del Proyecto
+
+p3-consultas-sql-Jaime-Amuedo/
+├──  dataset/
+│   └── settings.json
+├──  dataset/
+│   ├──  actividad_clientes.csv
+│   ├──  catalogo_peliculas.csv
+│   ├──  elenco.csv
+│   ├──  popularidad.csv
+├──  notebook/
+│   ├──  ProyectoIII_dataframe1.ipynb
+│   ├──  ProyectoIII_dataframe2.ipynb
+├──  sql-files/
+│   ├──  Dataframe1.sql
+│   ├──  Dataframe2.sql
+│   ├──  Dataframe3.sql
+│   ├──  inicio_y_select.sql
+├──  .gitignore
+├──  README.md
+
+# ✍️ Instrucciones de Uso
+
+git clone [URL-de-tu-repositorio]
+cd [nombre-del-proyecto]
+
+# 👩‍💻 Contribuyentes
+
+| Nombre        | GitHub       | LinkedIn      |
+|---------------|-------------|---------------|
+| Tu Nombre     | [GitHub](https://github.com/JaimeAmuedoJAH) | [LinkedIn](https://www.linkedin.com/in/jaime-amuedo-a432bb354) |
