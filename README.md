@@ -87,7 +87,7 @@ el actor ha participado en su carrera.
 - ✅ Exportar dataset final
 
 # 📁 Estructura del Proyecto
-
+```
 p3-consultas-sql-Jaime-Amuedo/
 ├── dataset/
 │ ├── settings.json
@@ -105,7 +105,7 @@ p3-consultas-sql-Jaime-Amuedo/
 │ └── inicio_y_select.sql
 ├── .gitignore
 └── README.md
-
+```
 # ✍️ Instrucciones de Uso
 
 git clone [URL-de-tu-repositorio]
@@ -115,5 +115,5 @@ cd [nombre-del-proyecto]
 
 | Nombre        | GitHub       | LinkedIn      |
 |---------------|-------------|---------------|
-| Tu Nombre     | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
+| Tu Nombre     | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeAmuedoJAH) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-amuedo-a432bb354)
  |
