@@ -68,8 +68,6 @@ el actor ha participado en su carrera.
 - ![SQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&size=auto)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&size=auto)
 - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&size=auto)
-- ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&size=auto)
-- ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20&logoColor=white&labelColor=555555&size=auto)
 
 ## 🛠️ Principales librerías
 
@@ -80,11 +78,10 @@ el actor ha participado en su carrera.
 - ![seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=auto)
 
 
-
 # ✅ Checklist de Python
 
 - ✅ Comprobar y corregir tipos de datos.
-- Detectar outliers
+- ✅ Detectar outliers
 - ✅ Crear columnas derivadas
 - ✅ Generar visualizaciones gráficas
 - Exportar dataset final
