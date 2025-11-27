@@ -89,23 +89,22 @@ el actor ha participado en su carrera.
 # 📁 Estructura del Proyecto
 
 p3-consultas-sql-Jaime-Amuedo/
-├──  dataset/
-│   └── settings.json
-├──  dataset/
-│   ├──  actividad_clientes.csv
-│   ├──  catalogo_peliculas.csv
-│   ├──  elenco.csv
-│   ├──  popularidad.csv
-├──  notebook/
-│   ├──  ProyectoIII_dataframe1.ipynb
-│   ├──  ProyectoIII_dataframe2.ipynb
-├──  sql-files/
-│   ├──  Dataframe1.sql
-│   ├──  Dataframe2.sql
-│   ├──  Dataframe3.sql
-│   ├──  inicio_y_select.sql
-├──  .gitignore
-├──  README.md
+├── dataset/
+│ ├── settings.json
+│ ├── actividad_clientes.csv
+│ ├── catalogo_peliculas.csv
+│ ├── elenco.csv
+│ └── popularidad.csv
+├── notebook/
+│ ├── ProyectoIII_dataframe1.ipynb
+│ └── ProyectoIII_dataframe2.ipynb
+├── sql-files/
+│ ├── Dataframe1.sql
+│ ├── Dataframe2.sql
+│ ├── Dataframe3.sql
+│ └── inicio_y_select.sql
+├── .gitignore
+└── README.md
 
 # ✍️ Instrucciones de Uso
 
@@ -116,4 +115,5 @@ cd [nombre-del-proyecto]
 
 | Nombre        | GitHub       | LinkedIn      |
 |---------------|-------------|---------------|
-| Tu Nombre     | [GitHub](https://github.com/JaimeAmuedoJAH) | [LinkedIn](https://www.linkedin.com/in/jaime-amuedo-a432bb354) |
+| Tu Nombre     | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
+ |
