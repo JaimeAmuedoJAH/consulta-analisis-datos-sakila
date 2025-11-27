@@ -65,19 +65,19 @@ el actor ha participado en su carrera.
 # 🧰 Tecnologías y librerías
 
 ## 📊 Análisis de datos
-- ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-_-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![Python](https://img.shields.io/badge/Python-_-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-_-blue?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![GitHub](https://img.shields.io/badge/GitHub-_-black?style=for-the-badge&logo=github&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-_-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![SQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&size=auto)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&size=auto)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&size=auto)
+- ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&size=auto)
+- ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20&logoColor=white&labelColor=555555&size=auto)
 
 ## 🛠️ Principales librerías
 
-- ![pandas](https://img.shields.io/badge/pandas-_-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![numpy](https://img.shields.io/badge/numpy-_-blue?style=for-the-badge&logo=numpy&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![plotly](https://img.shields.io/badge/plotly-_-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![matplotlib](https://img.shields.io/badge/matplotlib-_-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=yellow&cacheSeconds=1)
-- ![seaborn](https://img.shields.io/badge/seaborn-_-4A8DB0?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white&size=auto)
+- ![numpy](https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white&size=auto)
+- ![plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white&size=auto)
+- ![matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&size=auto)
+- ![seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=auto)
 
 
 
