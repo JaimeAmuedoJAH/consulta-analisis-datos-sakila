@@ -90,7 +90,6 @@ el actor ha participado en su carrera.
 ```
 p3-consultas-sql-Jaime-Amuedo/
 ├── dataset/
-│ ├── settings.json
 │ ├── actividad_clientes.csv
 │ ├── catalogo_peliculas.csv
 │ ├── elenco.csv
@@ -103,7 +102,6 @@ p3-consultas-sql-Jaime-Amuedo/
 │ ├── Dataframe1.sql
 │ ├── Dataframe2.sql
 │ ├── Dataframe3.sql
-│ └── inicio_y_select.sql
 ├── .gitignore
 └── README.md
 ```
