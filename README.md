@@ -64,11 +64,22 @@ el actor ha participado en su carrera.
 
 # 🧰 Tecnologías y librerías
 
-- SQL WORKBENCH
-- Python 
-- Jupyter Notebook (.ipynb)
-- Github
-- Visual Studio Code
+## 📊 Análisis de datos
+- ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-_-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![Python](https://img.shields.io/badge/Python-_-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-_-blue?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![GitHub](https://img.shields.io/badge/GitHub-_-black?style=for-the-badge&logo=github&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-_-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=yellow&cacheSeconds=1)
+
+## 🛠️ Principales librerías
+
+- ![pandas](https://img.shields.io/badge/pandas-_-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![numpy](https://img.shields.io/badge/numpy-_-blue?style=for-the-badge&logo=numpy&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![plotly](https://img.shields.io/badge/plotly-_-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![matplotlib](https://img.shields.io/badge/matplotlib-_-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=yellow&cacheSeconds=1)
+- ![seaborn](https://img.shields.io/badge/seaborn-_-4A8DB0?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=yellow&cacheSeconds=1)
+
+
 
 # ✅ Checklist de Python
 
