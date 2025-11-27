@@ -108,8 +108,8 @@ p3-consultas-sql-Jaime-Amuedo/
 
 # 📝 Notas Adicionales
 
-Actualmente se está trabajando en la actualización de los Dataframe 1 y 2, por eso aparecen en la estructura del proyecto.
-Actualmente se encuentra exlcuidos en el archivo .gitignore
+El dataframe 3 aun no se ha empezado a actualizar por eso aparecen en la estructura del proyecto.
+Actualmente se encuentra exlcuido en el archivo .gitignore
 
 # ✍️ Instrucciones de Uso
 ```
