@@ -64,7 +64,24 @@ el actor ha participado en su carrera.
 
 # 🧰 Tecnologías y librerías
 
-SQL WORKBENCH
-Python notebook (ipynb)
-Github
-Visual Studio Code
+## 📊 Análisis de datos
+- ![SQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&size=auto)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&size=auto)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&size=auto)
+
+## 🛠️ Principales librerías
+
+- ![pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white&size=auto)
+- ![numpy](https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white&size=auto)
+- ![plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white&size=auto)
+- ![matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&size=auto)
+- ![seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=auto)
+
+
+# ✅ Checklist de Python
+
+- ✅ Comprobar y corregir tipos de datos.
+- ✅ Detectar outliers
+- ✅ Crear columnas derivadas
+- ✅ Generar visualizaciones gráficas
+- ✅ Exportar dataset final
