@@ -106,11 +106,6 @@ p3-consultas-sql-Jaime-Amuedo/
 └── README.md
 ```
 
-# 📝 Notas Adicionales
-
-El dataframe 3 aun no se ha empezado a actualizar por eso aparecen en la estructura del proyecto.
-Actualmente se encuentra exlcuido en el archivo .gitignore
-
 # ✍️ Instrucciones de Uso
 ```
 git clone [URL-de-tu-repositorio]
