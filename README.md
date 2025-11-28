@@ -89,11 +89,8 @@ el actor ha participado en su carrera.
 # 📁 Estructura del Proyecto
 ```
 p3-consultas-sql-Jaime-Amuedo/
-├── dataset/
-│ ├── actividad_clientes.csv
-│ ├── catalogo_peliculas.csv
-│ ├── elenco.csv
-│ └── popularidad.csv
+├── dashboard/
+│ ├── Dashboards.xlsx
 ├── notebook/
 │ ├── ProyectoIII_dataframe1.ipynb
 │ └── ProyectoIII_dataframe2.ipynb
@@ -105,6 +102,11 @@ p3-consultas-sql-Jaime-Amuedo/
 ├── .gitignore
 └── README.md
 ```
+
+# 📝 Notas Adicionales
+
+El dataframe 3 aun no se ha empezado a actualizar por eso aparecen en la estructura del proyecto.
+Actualmente se encuentra exlcuido en el archivo .gitignore
 
 # ✍️ Instrucciones de Uso
 ```
