@@ -1,6 +1,4 @@
 sql-files/inicio_y_select.sql
 dataset/
-catalogo_peliculas_clean.csv
-actividad_clientes_clean.csv
-elenco_clean.csv
-popularidad_clean.csv
+csv_clean/
+
